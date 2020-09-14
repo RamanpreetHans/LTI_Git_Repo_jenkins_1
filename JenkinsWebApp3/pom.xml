@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>JenkinsWebApp Maven Webapp</name>
+	<name>JenkinsWebApp3 Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -36,7 +36,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>JenkinsWebApp</finalName>
+		<finalName>JenkinsWebApp3</finalName>
 		<pluginManagement><!-- lock down plugins versions to avoid using Maven 
 				defaults (may be moved to parent pom) -->
 			<plugins>
